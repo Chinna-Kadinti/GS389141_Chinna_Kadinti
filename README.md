@@ -238,8 +238,6 @@ Virtualized Lists: Implementing virtualization for large datasets
 Code Splitting: Dynamic imports for route-based code splitting
 Memoization: Further optimization of expensive calculations
 
-etc...
-
 
 
 
