@@ -220,6 +220,7 @@ GS389141_Chinna_Kadinti/
         └── validators.ts
 
 
+
 Credits
 Developed as part of the GSynergy technical challenge.
 License
