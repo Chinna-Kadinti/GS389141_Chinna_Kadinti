@@ -143,81 +143,26 @@ Export functionality
 Multi-language support
 Dark mode theme
 
-This is the project structure
 
-GS389141_Chinna_Kadinti/
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── README.md
-├── tsconfig.json
-├── public/
-│   ├── favicon.ico
-│   ├── index.html
-│   ├── logo192.png
-│   ├── logo512.png
-│   ├── manifest.json
-│   ├── robots.txt
-│   └── data/
-│       └── sample-data.xlsx
-└── src/
-    ├── App.css
-    ├── App.test.tsx
-    ├── App.tsx
-    ├── index.css
-    ├── index.tsx
-    ├── logo.svg
-    ├── react-app-env.d.ts
-    ├── reportWebVitals.ts
-    ├── serviceWorkerRegistration.ts
-    ├── setupTests.ts
-    ├── styles.css
-    ├── assets/
-    │   └── logo.png
-    ├── components/
-    │   ├── Auth/
-    │   │   ├── LoginForm.tsx
-    │   │   └── PrivateRoute.tsx
-    │   ├── Charts/
-    │   │   └── StoreChart.tsx
-    │   ├── Navigation/
-    │   │   ├── FileUploader.tsx
-    │   │   ├── Navbar.tsx
-    │   │   └── Sidebar.tsx
-    │   ├── Planning/
-    │   │   └── PlanningGrid.tsx
-    │   ├── SKUs/
-    │   │   ├── SKUForm.tsx
-    │   │   └── SKUList.tsx
-    │   └── Stores/
-    │       ├── StoreForm.tsx
-    │       └── StoreList.tsx
-    ├── pages/
-    │   ├── ChartPage.tsx
-    │   ├── LoginPage.tsx
-    │   ├── PlanningPage.tsx
-    │   ├── SKUsPage.tsx
-    │   └── StoresPage.tsx
-    ├── redux/
-    │   ├── hooks.ts
-    │   ├── store.ts
-    │   └── slices/
-    │       ├── authSlice.ts
-    │       ├── planningSlice.ts
-    │       ├── skuSlice.ts
-    │       └── storeSlice.ts
-    ├── services/
-    │   ├── auth.service.ts
-    │   ├── excel.service.ts
-    │   └── localStorage.service.ts
-    ├── types/
-    │   ├── auth.types.ts
-    │   ├── planning.types.ts
-    │   ├── sku.types.ts
-    │   └── store.types.ts
-    └── utils/
-        ├── formatters.ts
-        └── validators.ts
+
+## Project Structure
+
+GS389141_Chinna_Kadinti/ ├── .gitignore ├── package-lock.json ├── package.json ├── README.md ├── tsconfig.json ├── public/ │   ├── favicon.ico │   ├── index.html │   ├── logo192.png │   ├── logo512.png │   ├── manifest.json │   ├── robots.txt │   └── data/ │       └── sample-data.xlsx └── src/ ├── App.css ├── App.test.tsx ├── App.tsx ├── index.css ├── index.tsx ├── logo.svg ├── react-app-env.d.ts ├── reportWebVitals.ts ├── serviceWorkerRegistration.ts ├── setupTests.ts ├── styles.css ├── assets/ │   └── logo.png ├── components/ │   ├── Auth/ │   │   ├── LoginForm.tsx │   │   └── PrivateRoute.tsx │   ├── Charts/ │   │   └── StoreChart.tsx │   ├── Navigation/ │   │   ├── FileUploader.tsx │   │   ├── Navbar.tsx │   │   └── Sidebar.tsx │   ├── Planning/ │   │   └── PlanningGrid.tsx │   ├── SKUs/ │   │   ├── SKUForm.tsx │   │   └── SKUList.tsx │   └── Stores/ │       ├── StoreForm.tsx │       └── StoreList.tsx ├── pages/ │   ├── ChartPage.tsx │   ├── LoginPage.tsx │   ├── PlanningPage.tsx │   ├── SKUsPage.tsx │   └── StoresPage.tsx ├── redux/ │   ├── hooks.ts │   ├── store.ts │   └── slices/ │       ├── authSlice.ts │       ├── planningSlice.ts │       ├── skuSlice.ts │       └── storeSlice.ts ├── services/ │   ├── auth.service.ts │   ├── excel.service.ts │   └── localStorage.service.ts ├── types/ │   ├── auth.types.ts │   ├── planning.types.ts │   ├── sku.types.ts │   └── store.types.ts └── utils/ ├── formatters.ts └── validators.ts
+
+
+
+Instructions to paste:
+
+1. Copy everything from ## Project Structure to the ending backticks.
+
+
+2. Paste directly into your README.md file.
+
+
+
+This will maintain proper indentation and alignment when rendered on GitHub or any Markdown viewer.
+
+Let me know if you want to add explanations for each folder/file!
 
 ### Improvements with 4 More Hours
 ## 1. Comprehensive Testing Suite
