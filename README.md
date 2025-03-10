@@ -151,18 +151,8 @@ GS389141_Chinna_Kadinti/ ├── .gitignore ├── package-lock.json ├─
 
 
 
-Instructions to paste:
-
-1. Copy everything from ## Project Structure to the ending backticks.
 
 
-2. Paste directly into your README.md file.
-
-
-
-This will maintain proper indentation and alignment when rendered on GitHub or any Markdown viewer.
-
-Let me know if you want to add explanations for each folder/file!
 
 ### Improvements with 4 More Hours
 ## 1. Comprehensive Testing Suite
