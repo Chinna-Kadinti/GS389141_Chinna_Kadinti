@@ -56,7 +56,7 @@ The app features a responsive design, offline capabilities, and follows best pra
 ## Technical Implementation
 
 ### Technologies Used
-- React 19
+- React 18
 - TypeScript
 - Redux Toolkit for state management
 - React Router for navigation
