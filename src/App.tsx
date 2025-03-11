@@ -1,4 +1,4 @@
-// src/App.tsx - Keep only this part
+
 import React, { useState } from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Box, CssBaseline } from '@mui/material';
